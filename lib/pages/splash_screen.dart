@@ -19,7 +19,7 @@ class _splash_screenState extends State<splash_screen> {
   void initState() {
     // TODO: implement initState
     super.initState();
-    Timer(Duration(seconds: 1), () {
+    Timer(const Duration(seconds: 3), () {
 
       // this code specific for Replace the page and not show the splash screen
       Navigator.pushReplacement(
