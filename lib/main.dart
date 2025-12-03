@@ -12,7 +12,7 @@ void main() async{
   //open hive box
   await Hive.openBox("expense_database2");
   runApp(const MyApp());
-}
+} 
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});

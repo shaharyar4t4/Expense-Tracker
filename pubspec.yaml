@@ -38,7 +38,7 @@ dependencies:
   provider:
   fl_chart: ^0.69.0
   hive_flutter: ^1.1.0
-  flutter_slidable: ^3.1.1
+  flutter_slidable: ^4.0.3
 
 dev_dependencies:
   flutter_test:
